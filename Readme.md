@@ -17,4 +17,4 @@ Desde GitHub vamos al repositorio que queremos clonar, vamos a Code/copy reposit
 
 #### Realizar cambios y commit desde PyCharm. ####
 
-#### Realizar el push al nuevo remoto desde PyCharm. ####
+#### Realizar el push al nuevo remoto desde PyCharm. ####  
